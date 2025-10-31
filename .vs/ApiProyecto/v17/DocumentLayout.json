@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251030171149_agregartablamovimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251030171149_agregartablamovimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\apiresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\apiresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\mappings\\clasmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\mappings\\clasmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\movimientoinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\movimientoinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\movimientoinventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\movimientoinventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\detalleventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\detalleventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\apiproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\apiproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\models\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\controllers\\detallesventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\detallesventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\dtos\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\dtos\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251030163939_agregarstockaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251030163939_agregarstockaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251030163812_eliminarstockdeinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251030163812_eliminarstockdeinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251031152901_aumentarlongitudtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251031152901_aumentarlongitudtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251031145757_finalizarrefreshtokensetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251031145757_finalizarrefreshtokensetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\usuario\\desktop\\apipymes.cfs\\apiproyecto\\apiproyecto\\migrations\\20251031133842_agregartablarefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE0D3B7-8CF8-42B7-A70D-4F2E7983045D}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\migrations\\20251031133842_agregartablarefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251031152901_AumentarLongitudToken.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031152901_AumentarLongitudToken.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251031152901_AumentarLongitudToken.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031152901_AumentarLongitudToken.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251031152901_AumentarLongitudToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:29:01.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251031145757_FinalizarRefreshTokenSetup.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031145757_FinalizarRefreshTokenSetup.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251031145757_FinalizarRefreshTokenSetup.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031145757_FinalizarRefreshTokenSetup.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251031145757_FinalizarRefreshTokenSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:57:57.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\RefreshTokenRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:03:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "ApiProyecto\\Services\\IAuthServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:48:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Services\\AuthService.cs",
+              "RelativeToolTip": "ApiProyecto\\Services\\AuthService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv1gAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:43:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Program.cs",
+              "RelativeToolTip": "ApiProyecto\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA8wCMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:47:05.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251031133842_AgregarTablaRefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031133842_AgregarTablaRefreshToken.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251031133842_AgregarTablaRefreshToken.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251031133842_AgregarTablaRefreshToken.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251031133842_AgregarTablaRefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:38:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:37:34.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ApiResultDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\ApiResultDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ApiResultDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\ApiResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:17:54.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovimientoInventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\MovimientoInventarioController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\MovimientoInventarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\MovimientoInventarioController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\MovimientoInventarioController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwFoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:23:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251030171149_AgregarTablaMovimientoInventario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030171149_AgregarTablaMovimientoInventario.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251030171149_AgregarTablaMovimientoInventario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030171149_AgregarTablaMovimientoInventario.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251030171149_AgregarTablaMovimientoInventario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:11:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovimientoInventarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\MovimientoInventarioDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\MovimientoInventarioDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\MovimientoInventarioDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\MovimientoInventarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:10:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovimientoInventario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\MovimientoInventario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\MovimientoInventario.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\MovimientoInventario.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:09:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:42:07.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251030163939_AgregarStockAProductos.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030163939_AgregarStockAProductos.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251030163939_AgregarStockAProductos.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030163939_AgregarStockAProductos.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251030163939_AgregarStockAProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:39:39.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251030163812_EliminarStockDeInventario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030163812_EliminarStockDeInventario.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Migrations\\20251030163812_EliminarStockDeInventario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Migrations\\20251030163812_EliminarStockDeInventario.cs",
+              "RelativeToolTip": "ApiProyecto\\Migrations\\20251030163812_EliminarStockDeInventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:38:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\InventarioController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwE4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:31:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Inventario.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Inventario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:48:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiProyecto.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\ApiProyecto.csproj",
+              "RelativeDocumentMoniker": "ApiProyecto\\ApiProyecto.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\ApiProyecto.csproj",
+              "RelativeToolTip": "ApiProyecto\\ApiProyecto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T15:31:05.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Contrato.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Contrato.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Contrato.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Contrato.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:41:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Producto.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Producto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:37:17.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\ISoftDelete.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\ISoftDelete.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\ISoftDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:33:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClasMappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Mappings\\ClasMappingProfiles.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Mappings\\ClasMappingProfiles.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Mappings\\ClasMappingProfiles.cs",
+              "RelativeToolTip": "ApiProyecto\\Mappings\\ClasMappingProfiles.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswC8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:38:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InventarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\InventarioDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\InventarioDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\InventarioDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\InventarioDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:13:40.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ApiProyecto\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:31:40.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Usuario.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Usuario.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwC4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:12:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:11:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:08:51.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:07:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProyecto\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\appsettings.json",
+              "RelativeToolTip": "ApiProyecto\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T17:40:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ProductoDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\ProductoDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:38:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetalleVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\DetalleVentaDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\DetalleVentaDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\DetalleVentaDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\DetalleVentaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:17:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Detalleventum.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Detalleventum.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Detalleventum.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Detalleventum.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Detalleventum.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:17:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DetallesVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\DetallesVentaController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\DetallesVentaController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\DetallesVentaController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\DetallesVentaController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:17:02.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:13:35.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:11:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContratosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\ContratosController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\ContratosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\ContratosController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\ContratosController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAmwNgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:09:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonaDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\PersonaDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\PersonaDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\PersonaDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\PersonaDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:04:05.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RolDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\RolDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\RolDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\RolDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\RolDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:27:51.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAmwMAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:09:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\EmpresaDbContext.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\EmpresaDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\EmpresaDbContext.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\EmpresaDbContext.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwv7UAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:44:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:48:16.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Venta.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:46:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Models\\Persona.cs",
+              "RelativeToolTip": "ApiProyecto\\Models\\Persona.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:40:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\VentaDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\VentaDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\VentaDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\VentaDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:37:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:19:09.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContratoDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ContratoDto.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Dtos\\ContratoDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ApiPymes.CFS\\ApiProyecto\\ApiProyecto\\Dtos\\ContratoDto.cs",
+              "RelativeToolTip": "ApiProyecto\\Dtos\\ContratoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:29:15.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

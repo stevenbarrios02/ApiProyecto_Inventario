@@ -1,0 +1,25 @@
+# Contenido esencial para .gitignore de .NET Core / C#
+
+# Excluir bin/obj (Archivos compilados)
+[Bb]in/
+[Oo]bj/
+
+# Excluir carpetas de paquetes
+[Pp]ackages/
+
+# Excluir archivos de configuración de usuario/IDE
+*.user
+*.suo
+*.sln.docstates
+*.vsp
+*.pdb
+*.suo
+
+# Excluir archivos de bases de datos locales (si usas SQLite o SQL Server LocalDB)
+*.db
+*.mdf
+*.ldf
+
+# 🔑 EXCLUIR CONFIGURACIÓN DE DESARROLLO (¡CRUCIAL POR SEGURIDAD!)
+# Esto evita que tu cadena de conexión local (con contraseñas) suba a GitHub.
+[Aa]ppsettings.Development.json
