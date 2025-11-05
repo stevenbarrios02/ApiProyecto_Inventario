@@ -42,23 +42,29 @@ namespace ApiProyecto.Controllers
 			{
 				// 🔑 4. Obtener la Entidad con todas las inclusiones necesarias
 				var detalles = await _context.Detalleventa
-	.Include(d => d.ProductosIdProductosNavigation) // Incluye Producto (Rama 1)
 
-	// Inclusión de la rama Venta -> Usuario -> Rol
-	.Include(d => d.VentasIdVentasNavigation) // Incluye Venta (Rama 2, Nivel 1)
-		.ThenInclude(v => v.UsuariosIdUsuariosNavigation) // Incluye Usuario (Nivel 2)
-			.ThenInclude(u => u.RolesIdRolesNavigation) // 🔑 Incluye Rol (Nivel 3)
+					// 1. Incluye Producto
+					.Include(d => d.ProductosIdProductosNavigation)
 
-	// Inclusión de la rama Venta -> Usuario -> Persona
-	.Include(d => d.VentasIdVentasNavigation) // Repite para la rama Persona
-		.ThenInclude(v => v.UsuariosIdUsuariosNavigation)
-			.ThenInclude(u => u.Persona) // 🔑 Incluye Persona (Nivel 3)
+					// 2. Incluye Venta (Rama principal de la venta)
+					.Include(d => d.VentasIdVentasNavigation)
 
-	.ToListAsync();
+						// 3. Profundiza en Venta para incluir el Usuario
+						.ThenInclude(v => v.UsuariosIdUsuariosNavigation)
+
+							// 4. Desde Usuario, profundiza para incluir el Rol
+							.ThenInclude(u => u.RolesIdRolesNavigation)
+
+					// 5. Repetimos la rama Venta -> Usuario para añadir la Persona
+					.Include(d => d.VentasIdVentasNavigation) // Volver a la venta (es necesario)
+						.ThenInclude(v => v.UsuariosIdUsuariosNavigation)
+
+							// 6. Desde Usuario, profundiza para incluir la Persona
+							.ThenInclude(u => u.Persona) // 🔑 Incluye Persona
+
+					.ToListAsync();
 
 				// 🔑 5. Usar AutoMapper para el mapeo anidado
-				// AutoMapper resolverá DetalleVenta -> Venta -> Usuario -> Persona
-				// Siempre y cuando las reglas en MappingProfiles estén definidas.
 				return Ok(_mapper.Map<List<DetalleVentaDto>>(detalles));
 			}
 			catch (Exception ex)
